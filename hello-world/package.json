@@ -1,7 +1,7 @@
 {
   "name": "getting-started-expressJS",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "app.js",
   "repository": "https://github.com/vinniciusJ/getting-started-expressJS.git",
   "author": "Vinicius <vinnicius.jimenez@gmail.com>",
   "license": "MIT",
